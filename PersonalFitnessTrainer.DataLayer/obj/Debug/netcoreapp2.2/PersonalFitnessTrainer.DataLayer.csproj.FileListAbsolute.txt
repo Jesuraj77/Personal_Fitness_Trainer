@@ -1,0 +1,6 @@
+C:\Users\Kavya H\source\repos\PersonalFitnessTrainer\PersonalFitnessTrainer.DataLayer\bin\Debug\netcoreapp2.2\PersonalFitnessTrainer.DataLayer.deps.json
+C:\Users\Kavya H\source\repos\PersonalFitnessTrainer\PersonalFitnessTrainer.DataLayer\bin\Debug\netcoreapp2.2\PersonalFitnessTrainer.DataLayer.dll
+C:\Users\Kavya H\source\repos\PersonalFitnessTrainer\PersonalFitnessTrainer.DataLayer\obj\Debug\netcoreapp2.2\PersonalFitnessTrainer.DataLayer.csprojAssemblyReference.cache
+C:\Users\Kavya H\source\repos\PersonalFitnessTrainer\PersonalFitnessTrainer.DataLayer\obj\Debug\netcoreapp2.2\PersonalFitnessTrainer.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\PersonalFitnessTrainer\PersonalFitnessTrainer.DataLayer\obj\Debug\netcoreapp2.2\PersonalFitnessTrainer.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\PersonalFitnessTrainer\PersonalFitnessTrainer.DataLayer\obj\Debug\netcoreapp2.2\PersonalFitnessTrainer.DataLayer.AssemblyInfo.cs
